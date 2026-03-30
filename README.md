@@ -1,4 +1,4 @@
-#Hi there
+#Hi there,
 Veeresh here!
 My personal repository :-
 - 🌱 Currently learning: Python, Data Structures, AI basics  
